@@ -1,15 +1,15 @@
-const logotext = "JOHN";
+const logotext = "VINEETH";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Vineeth Kumar K S",
+    description: "I’m Vineeth Kumar K S data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Vineeth Kumar K S",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I'm a successful tester",
+        second: "Having interest on Network Engineer",
+        third: "I can develop websites",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -38,11 +38,11 @@ const worktimeline = [{
 
 const skills = [{
         name: "Python",
-        value: 90,
+        value: 60,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Java",
+        value: 80,
     },
     {
         name: "Javascript",
@@ -53,8 +53,12 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Selenium",
+        value: 100,
+    },
+    {
+        name: "Docker",
+        value: 50,
     },
 ];
 
@@ -63,11 +67,11 @@ const services = [{
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Mobile Apps",
+        title: "TaaS",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Wordpress Design",
+        title: "SAQ",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
@@ -136,14 +140,14 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "ksvineethkumar98@gmail.com",
+    YOUR_FONE: "+91 6380042809",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "default_service",
+    YOUR_TEMPLATE_ID: "template_qxiuqed",
+    YOUR_USER_ID: "AzvmrdE_x3fBwXtuA",
 };
 
 const socialprofils = {
